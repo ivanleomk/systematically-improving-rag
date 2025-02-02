@@ -1,0 +1,28 @@
+[project]
+name = "week2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.39.0",
+    "braintrust>=0.0.167",
+    "cohere>=5.11.3",
+    "datasets>=3.1.0",
+    "faker>=30.8.1",
+    "instructor>=1.6.3",
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.5",
+    "lancedb>=0.15.0",
+    "modal>=0.65.38",
+    "openai>=1.53.0",
+    "pandas>=2.2.3",
+    "requests>=2.32.3",
+    "sentence-transformers==3.1.1",
+    "streamlit-shortcuts>=0.1.9",
+    "streamlit>=1.39.0",
+    "tantivy>=0.22.0",
+    "transformers==4.45.2",
+    "accelerate>=0.26.0",
+    "matplotlib>=3.9.2",
+]
